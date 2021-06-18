@@ -12,7 +12,7 @@
     "prettier": "2.3.1"
   },
   "scripts": {
-    "test": "clear"
+    "test": ["./node_modules/.bin/eslint index.js  --fix", "clear"]
   },
   "author": "",
   "license": "ISC"
