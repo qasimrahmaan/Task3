@@ -13,7 +13,7 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/eslint index.js  --fix",
-    "run": "clear"
+    "run-script": "clear"
   },
   "author": "",
   "license": "ISC"
