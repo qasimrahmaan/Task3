@@ -1,4 +1,4 @@
 const a = 1;
-const b = 2;
+var b = 2;
 
-console.log('f', b, a);
+console.log("f", b, a);
