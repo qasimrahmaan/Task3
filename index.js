@@ -1,6 +1,6 @@
-const a = 1;
-let b = 2;
+var a = 1;
+var b = 2;
 
-b += 1;
+b = b + 1;
 
-console.log('f', b, a);
+console.log("f", b, a);
