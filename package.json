@@ -14,7 +14,7 @@
     "prettier": "^2.3.1"
   },
   "scripts": {
-    "test": "./node_modules/.bin/eslint index.js  --fix"
+    "test": "./node_modules/.bin/eslint *.js  --fix"
   },
   "author": "",
   "license": "ISC"
