@@ -12,7 +12,6 @@
     "prettier": "2.3.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "npm ./node_modules/.bin/eslint index.js  --fix"
   },
   "author": "",
